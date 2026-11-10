@@ -1,0 +1,4 @@
+com\poli\chat\ClientHandler.class
+com\poli\chat\ChatClient.class
+com\poli\chat\ChatServer.class
+com\poli\chat\ChatClient$1.class
